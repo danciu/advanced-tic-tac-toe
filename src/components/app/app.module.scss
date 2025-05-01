@@ -1,0 +1,41 @@
+.header {
+  background: #191919;
+  text-align: center;
+  padding: 1em;
+
+  h1 {
+    margin: 0 0 1em 0;
+    padding: 0;
+    line-height: 1.1;
+    font-size: 2em;
+  }
+
+  > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+  }
+
+  .label {
+    font-size: 1.2em;
+    font-weight: normal;
+  }
+
+  select {
+    padding: 0.5em;
+  }
+}
+
+.gameWrapper {
+  max-width: 1600px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+@media (prefers-color-scheme: light) {
+  .header {
+    background: #2c2c2c;
+  }
+}

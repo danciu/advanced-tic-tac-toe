@@ -1,1 +1,5 @@
-# advanced-tic-tac-toe
+# Advanced Tic Tac Toe
+
+## React + TypeScript + Vite
+
+Hello, world!
