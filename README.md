@@ -3,6 +3,10 @@
 A flexible and modern implementation of the classic Tic Tac Toe game, supporting variable grid sizes for enhanced gameplay.
 
 [![Test Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)](coverage/coverage-final.json)
+[![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-6.2-646CFF?logo=vite)](https://vitejs.dev/)
+[![Vitest](https://img.shields.io/badge/Vitest-3.1-green?logo=vitest)](https://vitest.dev/)
 
 ## Tech Stack
 
