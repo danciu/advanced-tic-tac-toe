@@ -38,7 +38,7 @@ A flexible and modern implementation of the classic Tic Tac Toe game, supporting
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/advanced-tic-tac-toe.git
+git clone https://github.com/danciu/advanced-tic-tac-toe.git
 
 # Change directory
 cd advanced-tic-tac-toe
